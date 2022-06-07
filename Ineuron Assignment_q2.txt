@@ -1,0 +1,35 @@
+﻿Demonstrate use of abstract class, multiple inheritance and decorator in python using examples.
+
+
+1. Abstract Class:
+
+
+* A class that consists of one or more abstract method is called the abstract class. 
+
+
+*  Abstract class can be inherited by the subclass and abstract method gets its definition in the subclass. 
+
+
+* Python provides the abc module to use the abstraction in the Python program. 
+
+
+2. Multiple Inheritance:
+
+
+* Multi-Level inheritance is possible in python like other object-oriented languages.
+ 
+* Multi-level inheritance is archived when a derived class inherits another derived class.
+ 
+* There is no limit on the number of levels up to which, the multi-level inheritance is archived in python.
+
+
+3. Decorators:
+
+
+* Decorators are one of the most helpful and powerful tools of Python. 
+
+
+* These are used to modify the behavior of the function. 
+
+
+* Decorators provide the flexibility to wrap another function to expand the working of wrapped function, without permanently modifying it.
